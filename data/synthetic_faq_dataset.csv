@@ -1,0 +1,679 @@
+Intent,Question,Answer
+Admission_Dates,What are the admission dates?,Admissions open in July each year.
+Admission_Dates,When does admission start?,Admissions typically start in July.
+Admission_Dates,What is the last date to apply?,The last date is announced on the official website.
+Admission_Dates,When do admissions open for Spring semester?,Spring admissions open in December.
+Admission_Dates,What are the Fall admission dates?,Fall admissions open in July and close in August.
+Admission_Dates,Are admissions open right now?,Please check the university website for current admission status.
+Admission_Dates,When will admissions start for next year?,Next year's admissions will start as per the academic calendar.
+Admission_Dates,What is the deadline for international students?,International student deadlines are usually one month earlier.
+Admission_Dates,Can I apply after the deadline?,Late applications may be considered with additional fees.
+Admission_Dates,When do PhD admissions start?,PhD admissions have separate timelines; check the graduate studies office.
+Admission_Dates,What are evening program admission dates?,Evening program admissions follow the same timeline.
+Admission_Dates,Is there a different schedule for graduate programs?,Graduate programs may have rolling admissions.
+Admission_Dates,When should I submit my application?,Submit at least two weeks before the deadline.
+Admission_Dates,What is the early admission deadline?,Early admission deadlines are announced separately.
+Admission_Dates,When do merit-based admissions close?,Merit admissions close with regular admissions.
+Admission_Dates,Are admission dates extended sometimes?,Extensions may be granted under special circumstances.
+Admission_Dates,What is the schedule for undergraduate admissions?,UG admissions follow the July timeline.
+Admission_Dates,When do admissions close for engineering programs?,All programs follow the same deadline.
+Admission_Dates,What are the important admission dates to remember?,Key dates: Application opens July 1 closes August 31.
+Admission_Dates,Is there winter admission?,Winter admission is only for specific programs.
+Admission_Dates,When do self-finance scheme admissions start?,Self-finance admissions start simultaneously.
+Admission_Dates,What is the schedule for distance learning admissions?,Distance learning has biannual admissions in Jan and July.
+Admission_Dates,When are admission interviews conducted?,Interviews are scheduled after application submission.
+Admission_Dates,Can I get admission in mid-year?,Mid-year admission is possible for transfer students.
+Admission_Dates,What are the PhD admission cycles?,PhD admissions happen twice a year.
+Admission_Dates,When do short course admissions start?,Short courses have continuous admissions.
+Admission_Dates,What is the last date for online application?,Online applications close at midnight on deadline day.
+Admission_Dates,Are there different dates for male and female applicants?,No all applicants follow the same schedule.
+Admission_Dates,When do hostel admissions start?,Hostel applications start after academic admission.
+Admission_Dates,What is the admission schedule for foreign students?,International students should apply one month earlier.
+Admission_Dates,When are admission tests conducted?,Tests are scheduled between application and admission dates.
+Admission_Dates,Can I defer my admission to next semester?,Deferral requests must be made before semester start.
+Admission_Dates,What are the important deadlines after admission?,After admission fee payment and registration deadlines apply.
+Admission_Dates,When do certificate program admissions start?,Certificate programs follow the main admission schedule.
+Admission_Dates,Is there summer admission?,Summer admission is for specific programs only.
+Admission_Dates,What are the MBA admission dates?,MBA admissions follow the graduate program schedule.
+Admission_Dates,When do admissions open for overseas Pakistanis?,Overseas Pakistanis follow the international student schedule.
+Admission_Dates,What is the schedule for PhD proposal submission?,PhD proposals have separate deadlines.
+Admission_Dates,When are admission decisions announced?,Decisions are announced within 4-6 weeks of application.
+Admission_Dates,What are the transfer student admission dates?,Transfer students can apply during regular admissions.
+Admission_Dates,When do executive program admissions start?,Executive programs have flexible admission schedules.
+Admission_Dates,Is there any priority admission deadline?,Priority deadlines are for early applicants.
+Admission_Dates,What are the LLB admission dates?,Law program admissions follow the general schedule.
+Admission_Dates,When do evening MBA admissions start?,Evening MBA follows the regular MBA schedule.
+Admission_Dates,What is the schedule for MS admissions?,MS admissions follow graduate program timelines.
+Admission_Dates,When are foundation program admissions?,Foundation programs have separate admission cycles.
+Admission_Dates,What are the important admission milestones?,Milestones: Application-Test Interview Merit-List Enrollment.
+Admission_Dates,When do admissions open for disabled students?,Special needs students follow the same schedule with additional support.
+Eligibility,What is the eligibility criteria?,Eligibility varies by program; please check department details.
+Eligibility,Am I eligible for BS CS?,Eligibility depends on intermediate marks.
+Eligibility,What marks are required for admission?,Minimum marks are defined by the university.
+Eligibility,What percentage is required for engineering?,Minimum 60% in intermediate for engineering programs.
+Eligibility,Can I apply with A-Levels?,Yes A-Level students can apply with equivalence certificate.
+Eligibility,What is the age limit for undergraduate programs?,Maximum age is 22 years for undergraduate programs.
+Eligibility,Is there any relaxation for Hafiz-e-Quran?,Yes there is a special quota for Hafiz-e-Quran.
+Eligibility,What are the eligibility requirements for MBA?,Bachelor's degree with minimum 2.5 CGPA required for MBA.
+Eligibility,Can I apply with foreign qualifications?,Yes after obtaining equivalence from IBCC.
+Eligibility,What subjects are required for BS Computer Science?,Mathematics is compulsory for BS Computer Science.
+Eligibility,Is there any quota system?,Yes there are quotas for different categories.
+Eligibility,What is the minimum GPA requirement for MS?,Minimum 2.5 CGPA in undergraduate degree for MS programs.
+Eligibility,Are there different criteria for female students?,No criteria are same for all genders.
+Eligibility,Can I apply if I have a gap in education?,Yes but you need to explain the gap in your application.
+Eligibility,What are the sports quota requirements?,Sports quota requires provincial/national level certificates.
+Eligibility,Is intermediate equivalence required for foreign boards?,Yes equivalence certificate from IBCC is mandatory.
+Eligibility,What is the eligibility for PhD programs?,MS/MPhil degree with minimum 3.0 CGPA required for PhD.
+Eligibility,Are working professionals eligible for evening programs?,Yes evening programs are designed for professionals.
+Eligibility,What is the minimum percentage for scholarships?,Minimum 80% marks required for merit scholarships.
+Eligibility,Can I apply for multiple programs?,Yes but separate applications are required.
+Eligibility,What are the eligibility criteria for disabled students?,Special relaxation is provided for differently-abled students.
+Eligibility,Is there any entrance exam requirement?,Some programs require entrance exams; check program details.
+Eligibility,What are the requirements for transfer students?,Transfer students need NOC and transcripts from previous institution.
+Eligibility,Are there special criteria for tribal area students?,Yes special quotas exist for students from tribal areas.
+Eligibility,What is the eligibility for executive education?,Executive programs require work experience.
+Eligibility,Can foreign students apply for all programs?,Most programs are open to international students.
+Eligibility,What are the language requirements?,Proficiency in English is required for all programs.
+Eligibility,Is there any medical fitness requirement?,Yes medical fitness certificate is required at admission.
+Eligibility,What are the criteria for distance learning?,Distance learning has flexible eligibility criteria.
+Eligibility,Can I apply with diploma instead of intermediate?,Yes diploma holders can apply for relevant programs.
+Eligibility,What is the minimum attendance requirement?,75% attendance is mandatory for all programs.
+Eligibility,Are there different criteria for self-finance scheme?,Self-finance has slightly relaxed criteria.
+Eligibility,What is the eligibility for certificate programs?,Certificate programs have minimal eligibility requirements.
+Eligibility,Can I apply if I failed a subject?,You must clear all subjects before applying.
+Eligibility,What are the age requirements for graduate programs?,No upper age limit for graduate programs.
+Eligibility,Is work experience required for MBA?,Work experience is preferred but not mandatory for MBA.
+Eligibility,What are the requirements for MS Computer Science?,BS Computer Science or equivalent degree required.
+Eligibility,Can arts students apply for science programs?,Bridge courses may be required for domain change.
+Eligibility,What is the eligibility for law programs?,Minimum 45% marks in intermediate for LLB.
+Eligibility,Are there additional requirements for architecture?,Architecture requires aptitude test and portfolio.
+Eligibility,What is the eligibility for medical programs?,Medical programs have separate entry tests and criteria.
+Eligibility,Can I apply with O-Levels?,Yes with equivalence certificate from IBCC.
+Eligibility,What are the military quota requirements?,Dependents of military personnel have special quota.
+Eligibility,Is there any height requirement for programs?,No height requirements for academic programs.
+Eligibility,What are the eligibility criteria for teacher training?,B.Ed requires bachelor's degree with teaching aptitude.
+Eligibility,Can I apply if my marks are below minimum?,Exceptional cases may be considered by the academic committee.
+Eligibility,What are the requirements for continuing education?,Continuing education programs have flexible criteria.
+Eligibility,Is there any regional quota?,Yes there are quotas for different regions.
+Eligibility,What is the eligibility for international dual degree?,Dual degree programs have specific GPA requirements.
+Eligibility,Can I apply for PhD after BS?,No MS/MPhil is required for PhD admission.
+Scholarship,Are scholarships available?,"Yes, several merit and need-based scholarships are offered."
+Scholarship,How can I apply for scholarship?,Scholarship forms are available on the portal.
+Scholarship,Is financial aid available?,"Yes, financial assistance programs are available."
+Scholarship,What types of scholarships are offered?,"Merit-based, need-based, sports, and special talent scholarships."
+Scholarship,What is the merit scholarship criteria?,Minimum 80% marks in previous degree for merit scholarship.
+Scholarship,Are there full scholarships available?,Yes full tuition scholarships are available for top merit students.
+Scholarship,How are need-based scholarships awarded?,Based on family income and financial need assessment.
+Scholarship,Can I get scholarship if I have low income?,Yes need-based scholarships are designed for such cases.
+Scholarship,What documents are needed for scholarship application?,"Income certificate, marksheets, and recommendation letters."
+Scholarship,When is scholarship application deadline?,Scholarship applications close one month after admission.
+Scholarship,Is there scholarship for international students?,Limited scholarships are available for international students.
+Scholarship,What is the HEC need-based scholarship?,HEC provides need-based scholarships through university.
+Scholarship,Are there sports scholarships?,Yes for students with provincial/national level achievements.
+Scholarship,Can I apply for multiple scholarships?,Yes but you can only avail one at a time.
+Scholarship,What is the alumni scholarship?,Alumni fund scholarships for deserving students.
+Scholarship,Are there research assistantships for graduate students?,Yes research assistantships are available for MS/PhD.
+Scholarship,What is the teaching assistantship scheme?,Graduate students can apply for teaching assistantships.
+Scholarship,Is there fee waiver for orphan students?,Yes special fee waiver for orphan students.
+Scholarship,What are the corporate sponsored scholarships?,Several corporations sponsor scholarships through CSR.
+Scholarship,Can I get scholarship if I'm already enrolled?,Yes scholarships are reviewed each semester.
+Scholarship,What is the criteria for maintaining scholarship?,Minimum 3.0 GPA required to maintain scholarship.
+Scholarship,Are there scholarships for female students?,Yes special scholarships to encourage female education.
+Scholarship,What is the PEEF scholarship?,Punjab Educational Endowment Fund scholarships are available.
+Scholarship,Can disabled students get special scholarships?,Yes special scholarships for differently-abled students.
+Scholarship,What are the endowment fund scholarships?,University endowment fund offers various scholarships.
+Scholarship,Is there financial aid for books and supplies?,Some scholarships include book allowances.
+Scholarship,What are the overseas scholarship opportunities?,University facilitates applications for overseas scholarships.
+Scholarship,Can I work on campus for financial support?,Yes limited on-campus work opportunities are available.
+Scholarship,What is the zakat fund scholarship?,Zakat fund provides financial assistance to eligible students.
+Scholarship,Are there scholarships for specific departments?,Some departments have donor-funded scholarships.
+Scholarship,What is the criteria for chancellor's scholarship?,Chancellor's scholarship is for top 10 merit students.
+Scholarship,Can I get scholarship based on extracurricular?,Yes special talent scholarships are available.
+Scholarship,What are the emergency financial aid options?,Emergency funds are available for sudden financial crises.
+Scholarship,Is there scholarship for tribal area students?,Yes special scholarships for students from tribal areas.
+Scholarship,What is the foreign funded scholarship program?,Various foreign funded scholarships are available.
+Scholarship,Can I transfer my scholarship to another program?,Scholarships are program-specific and not transferable.
+Scholarship,What are the summer scholarship opportunities?,Limited scholarships for summer courses are available.
+Scholarship,Is there financial aid for conference attendance?,Yes travel grants for presenting research papers.
+Scholarship,What are the industry partnership scholarships?,Industry partners offer scholarships in relevant fields.
+Scholarship,Can siblings get joint scholarship?,No scholarships are individual-based.
+Scholarship,What is the criteria for sports scholarship?,National or provincial level achievement required.
+Scholarship,Are there scholarships for minority groups?,Yes special quotas for minority groups.
+Scholarship,What is the application process for HEC scholarship?,Applications are submitted through university portal.
+Scholarship,Can I appeal if my scholarship is rejected?,Yes appeal can be made to financial aid committee.
+Scholarship,What are the donor-specific scholarships?,Various donors have specific scholarship programs.
+Scholarship,Is there scholarship for summer internship?,Limited funding for summer internships is available.
+Scholarship,What are the research grant opportunities?,Faculty research grants sometimes include student support.
+Scholarship,Can international students get assistantships?,Yes international students can apply for assistantships.
+Scholarship,What is the alumni funded scholarship criteria?,Criteria vary based on alumni donor preferences.
+Fee_Structure,What is the fee structure?,Fee structure is available on the university website.
+Fee_Structure,How much is semester fee?,Semester fee depends on the program.
+Fee_Structure,Is hostel fee included?,Hostel fee is charged separately.
+Fee_Structure,What are the tuition fees for BS Computer Science?,BS CS tuition is approximately PKR 80000 per semester.
+Fee_Structure,Are there additional charges besides tuition?,"Yes, there are library, lab, and development charges."
+Fee_Structure,What is the fee for MBA program?,MBA program fee is approximately PKR 120000 per semester.
+Fee_Structure,Is fee different for evening programs?,Evening programs have higher fee structure.
+Fee_Structure,What are the payment methods?,"Bank draft, online transfer, and cash payment options."
+Fee_Structure,Is there installment plan for fee payment?,Yes installment plans are available with approval.
+Fee_Structure,What is the security deposit amount?,Security deposit is PKR 10000 refundable at completion.
+Fee_Structure,Are fees different for international students?,Yes international students pay higher fees.
+Fee_Structure,What is the hostel fee per month?,Hostel fee is approximately PKR 15000 per month with meals.
+Fee_Structure,Is there discount for siblings?,Yes 10% discount for siblings studying simultaneously.
+Fee_Structure,What are the library charges?,Library subscription is PKR 2000 per semester.
+Fee_Structure,Is transportation fee included?,Transportation is optional and charged separately.
+Fee_Structure,What is the laboratory fee for science students?,Lab fee varies by department but averages PKR 5000.
+Fee_Structure,Are there different fees for self-finance scheme?,Self-finance scheme has 50% higher fees.
+Fee_Structure,What is the examination fee?,Examination fee is included in semester charges.
+Fee_Structure,Is there late fee penalty?,Yes 5% penalty for fee payment after due date.
+Fee_Structure,What are the certificate program fees?,Certificate programs cost PKR 30000-50000 depending on duration.
+Fee_Structure,Is there any scholarship deduction in fee?,Scholarship amount is deducted from total fee.
+Fee_Structure,What is the admission processing fee?,Admission processing fee is PKR 2000 non-refundable.
+Fee_Structure,Are there hostel security deposits?,Yes PKR 5000 refundable hostel security deposit.
+Fee_Structure,What is the alumni association fee?,Alumni association fee is PKR 1000 per year.
+Fee_Structure,Is there gymnasium fee?,Gym membership is PKR 1000 per semester.
+Fee_Structure,What are the medical facility charges?,Basic medical services are included in semester fee.
+Fee_Structure,Is there separate fee for air-conditioned hostel?,Yes AC hostel rooms cost PKR 5000 extra per month.
+Fee_Structure,What is the fee for repeating a course?,Course repetition fee is 50% of course credit fee.
+Fee_Structure,Are there different fees for different campuses?,Fees may vary slightly between campuses.
+Fee_Structure,What is the convocation fee?,Convocation fee is PKR 5000 charged in final semester.
+Fee_Structure,Is there transcript fee?,Transcript fee is PKR 1000 per copy.
+Fee_Structure,What are the distance learning fees?,Distance learning fees are 30% lower than regular programs.
+Fee_Structure,Is there fee for change of program?,Program change fee is PKR 5000.
+Fee_Structure,What is the fee for transfer students?,Transfer students pay regular program fees.
+Fee_Structure,Are there hidden charges?,All charges are transparently listed in fee bill.
+Fee_Structure,What is the fee for PhD programs?,PhD tuition is PKR 100000 per semester.
+Fee_Structure,Is there fee for extracurricular activities?,Most extracurricular activities are free for enrolled students.
+Fee_Structure,What are the payment deadlines?,Fee payment deadlines are announced at semester start.
+Fee_Structure,Is there fee for summer courses?,Summer courses are charged per credit hour.
+Fee_Structure,What is the refund policy?,Refund policy allows 90% refund if withdrawn before classes.
+Fee_Structure,Are there different fees for part-time students?,Part-time students pay per credit hour.
+Fee_Structure,What is the fee structure for foreign nationals?,Foreign nationals pay fees in US dollars as per policy.
+Fee_Structure,Is there fee for internet facility?,Campus WiFi is included in semester fee.
+Fee_Structure,What are the sports complex charges?,Basic sports facilities are free for students.
+Fee_Structure,Is there parking fee?,Parking is free for students with valid stickers.
+Fee_Structure,What is the fee for auditorium booking?,Auditorium booking has separate charges for events.
+Fee_Structure,Are there different fees for research students?,Research students pay regular graduate program fees.
+Fee_Structure,What is the fee for industrial tour?,Industrial tours have separate charges based on destination.
+Merit_List,When will merit list be announced?,Merit lists are announced after admissions close.
+Merit_List,How many merit lists are there?,Multiple merit lists are published.
+Merit_List,Where can I check merit list?,Merit lists are published on the official website.
+Merit_List,What is the basis of merit list calculation?,"Merit is based on academic marks, entry test, and interview."
+Merit_List,How many candidates are in each merit list?,Each list contains 100-200 candidates depending on program.
+Merit_List,Is there separate merit list for scholarships?,Yes scholarship merit list is separate from admission.
+Merit_List,What is the waiting list procedure?,Waitlisted candidates are contacted if seats become available.
+Merit_List,How can I improve my merit position?,Merit is fixed based on application; cannot be improved.
+Merit_List,What is the minimum merit for engineering?,Minimum merit varies each year based on competition.
+Merit_List,Are there different merit lists for categories?,Yes separate lists for different quotas.
+Merit_List,When will second merit list be announced?,Second merit list is announced one week after first.
+Merit_List,What if my name is not in merit list?,You can apply for waitlist or consider other programs.
+Merit_List,Is merit list based on entry test only?,No it's combination of academics and entry test.
+Merit_List,How are ties in merit resolved?,Ties are resolved by giving preference to higher entry test score.
+Merit_List,What is the closing merit of last year?,Last year's closing merits are published on website.
+Merit_List,Is there separate merit for evening programs?,Yes evening programs have separate merit lists.
+Merit_List,When will merit list for MS programs be announced?,MS merit lists are announced after graduate admissions.
+Merit_List,How can I check my merit position?,Merit position is mentioned in merit list notification.
+Merit_List,What is the criteria for PhD merit list?,PhD merit based on academic record and research proposal.
+Merit_List,Are merit lists displayed on notice boards?,Yes both online and physical notice boards.
+Merit_List,What is the validity of merit list?,Merit list is valid for current admission cycle only.
+Merit_List,Is there any objection procedure for merit list?,Objections can be filed within 3 days of publication.
+Merit_List,How many rounds of merit lists are there?,Typically 3-4 rounds until all seats are filled.
+Merit_List,What is the provisional merit list?,Provisional list is subject to document verification.
+Merit_List,When will final merit list be announced?,Final merit list after all verifications.
+Merit_List,Is there separate merit for international students?,Yes international students have separate merit list.
+Merit_List,What is the weightage for interview in merit?,Interview carries 20% weight in final merit.
+Merit_List,How are sports quota merit lists prepared?,Sports quota has separate criteria and merit list.
+Merit_List,What if I miss merit list announcement?,Regularly check website; university is not responsible.
+Merit_List,Is merit list available for download?,Yes PDF versions are available on portal.
+Merit_List,What is the criteria for self-finance merit?,Self-finance merit has slightly lower criteria.
+Merit_List,When will merit list for hostel be announced?,Hostel merit list is separate and announced later.
+Merit_List,How is district quota merit calculated?,District quota merit within quota category.
+Merit_List,What is the waiting list number?,Waitlist number indicates your position in waiting queue.
+Merit_List,Are merit lists revised sometimes?,Yes revisions occur after objection resolution.
+Merit_List,What is the closing date for merit list admission?,Admission against merit list must be completed in 7 days.
+Merit_List,How many candidates are called from waitlist?,Depends on vacancies after first list admissions.
+Merit_List,Is there any fee for merit list inclusion?,No fee for merit list inclusion.
+Merit_List,What is the process after merit list selection?,Selected candidates must complete admission formalities.
+Merit_List,Are merit lists prepared department-wise?,Yes each department prepares its own merit list.
+Merit_List,What is the schedule for merit list announcements?,Schedule is published with admission calendar.
+Merit_List,How can I get merit list via SMS?,SMS service is available for registered applicants.
+Hostel,Is hostel available?,"Yes, hostel facilities are available."
+Hostel,How to apply for hostel?,Hostel application is submitted online.
+Hostel,Is hostel compulsory?,Hostel is optional for students.
+Hostel,What are the hostel facilities?,"Furnished rooms, WiFi, laundry, mess, and security."
+Hostel,How much is hostel fee?,Hostel fee is approximately PKR 15000 per month.
+Hostel,Is food included in hostel fee?,Yes three meals per day are included.
+Hostel,What are the hostel rules?,Strict rules regarding timings and visitor policies apply.
+Hostel,Are separate hostels available for females?,Yes separate hostels for male and female students.
+Hostel,Is there curfew time in hostel?,Yes curfew is at 10 PM for undergraduate students.
+Hostel,What is the hostel security like?,24/7 security with CCTV surveillance.s
+Hostel,Are hostel rooms air-conditioned?,Limited AC rooms available at extra costs
+Hostel,How many students share a room?,Typically 2-3 students per room.
+Hostel,Is laundry service available?,Yes laundry service is available at additional cost.
+Hostel,What is the hostel admission criteria?,Based on distance from university and merit.
+Hostel,Can day scholars use hostel facilities?,Limited access to common areas for day scholars.
+Hostel,Is there gym in hostel?,Basic gym equipment available in hostel common area.
+Hostel,What is the procedure for hostel leave?,Leave application must be approved by warden.
+Hostel,Are visitors allowed in hostel?,Visitors allowed in common areas during specified hours.
+Hostel,Is there medical facility in hostel?,Basic first aid and visiting doctor service.
+Hostel,What is the mess food quality?,Mess provides balanced diet with vegetarian/non-vegetarian options.
+Hostel,Can I cook in hostel room?,Cooking in rooms is strictly prohibited.
+Hostel,Is WiFi available in hostel?,Yes high-speed WiFi throughout hostel.
+Hostel,What are the electricity arrangements?,Electricity included in fee with backup generator.
+Hostel,Are study rooms available in hostel?,Yes separate study rooms and library available.
+Hostel,Is there parking for hostel residents?,Limited parking available for residents.
+Hostel,What is the procedure for hostel transfer?,Transfer requests considered on case-by-case basis.
+Hostel,Are hostel fees refundable?,Refund as per university hostel policy.
+Hostel,Is there separate hostel for married students?,Limited accommodation for married graduate students.
+Hostel,What is the hostel capacity?,Hostel can accommodate approximately 1000 students.
+Hostel,Are there single rooms available?,Limited single rooms for final year students.
+Hostel,Is there 24-hour hot water?,Yes solar heated water available.
+Hostel,What is the procedure for hostel complaints?,Complaint register maintained with warden office.
+Hostel,Are there recreational facilities in hostel?,TV room indoor games available.
+Hostel,Is there hostel for disabled students?,Special accommodations available for disabled students.
+Hostel,What is the hostel admission deadline?,Hostel applications close one month before semester.
+Hostel,Can international students get hostel?,Priority given to international students for hostel.
+Hostel,Is there separate fee for hostel security?,Security deposit of PKR 5000 refundable.
+Hostel,What is the punishment for rule violation?,Warning fine or expulsion depending on severity.
+Hostel,Are there laundry machines in hostel?,Yes coin-operated laundry machines available.
+Hostel,Is there hostel for PhD students?,Separate block for research scholars.
+Hostel,What is the procedure for guest stay?,Guest rooms available with prior permission.
+Hostel,Are pets allowed in hostel?,Pets strictly not allowed in hostel premises.
+Hostel,Is there smoking area in hostel?,Smoking strictly prohibited in entire hostel.
+Hostel,What is the cleaning schedule?,Daily room cleaning and weekly deep cleaning.
+Hostel,Are beddings provided in hostel?,Basic bedding provided; students bring personal items.
+Hostel,Is there refrigerator in hostel rooms?,Refrigerators available in common areas only.
+Departments,What departments are offered?,The university offers multiple departments.
+Departments,Is Computer Science available?,"Yes, Computer Science department is available."
+Departments,What programs are offered?,Various undergraduate and postgraduate programs are offered.
+Departments,What engineering departments are available?,"Civil, Electrical, Mechanical, and Computer Engineering."
+Departments,Is there Medical College?,No but there are allied health sciences departments.
+Departments,What business departments are available?,"Business Administration, Commerce, and Economics."
+Departments,Are there arts and humanities departments?,Yes English Psychology and Media Studies departments.
+Departments,What science departments are offered?,"Mathematics, Physics, Chemistry, and Biology."
+Departments,Is there Law department?,Yes Faculty of Law offers LLB and LLM.
+Departments,What are the new departments?,Data Science and Artificial Intelligence are new additions.
+Departments,Which department is most popular?,Computer Science and Business Administration are most popular.
+Departments,Are there interdisciplinary departments?,Yes Environmental Sciences and Biotechnology.
+Departments,What departments offer PhD programs?,Most departments offer MS/MPhil and PhD.
+Departments,Is there Fashion Design department?,Yes Department of Textile and Design.
+Departments,What departments are in evening program?,"Business, Computer Science, and Education departments."
+Departments,Are there distance learning departments?,Yes several departments offer distance learning.
+Departments,Which departments have international collaborations?,"Engineering and Business have foreign collaborations."
+Departments,What departments offer certificate courses?,Most departments offer short certificate courses.
+Departments,Is there Agriculture department?,No but there is Environmental Sciences.
+Departments,What departments have research centers?,"Most departments have dedicated research centers."
+Departments,Are there military science departments?,No military science department.
+Departments,What departments offer summer courses?,Many departments offer summer intensive courses.
+Departments,Is there Music department?,No but there is Fine Arts department.
+Departments,What departments have industry partnerships?,"Engineering and IT departments have strong industry ties."
+Departments,Are there language departments?,Yes English and Modern Languages department.
+Departments,What departments offer online programs?,"Business and Computer Science offer online degrees."
+Departments,Is there Aviation department?,No aviation department.
+Departments,What departments have exchange programs?,"Several departments have student exchange programs."
+Departments,Are there pharmacy departments?,Yes Department of Pharmacy.
+Departments,What departments offer executive education?,"Business Administration offers executive programs."
+Departments,Is there Nursing department?,Yes Department of Nursing.
+Departments,What departments have accreditation?,"Engineering and Business programs are accredited."
+Departments,Are there Islamic Studies department?,Yes Department of Islamic Studies.
+Departments,What departments offer weekend classes?,"Business and IT departments offer weekend programs."
+Departments,Is there Sports Science department?,Yes Department of Sports Sciences.
+Departments,What departments have computer labs?,"All science and engineering departments have labs."
+Departments,Are there journalism departments?,Yes Department of Media and Communication.
+Departments,What departments offer apprenticeship?,Engineering departments offer apprenticeship programs.
+Departments,Is there Architecture department?,Yes Department of Architecture.
+Departments,What departments have publication records?,"Most departments publish research regularly."
+Departments,Are there statistics departments?,Yes Mathematics department includes statistics.
+Departments,What departments offer double majors?,Business and Arts departments offer double majors.
+Departments,Is there International Relations department?,Yes Department of Political Science and IR.
+Departments,What departments have incubation centers?,"IT and Engineering have startup incubation centers."
+Departments,Are there education departments?,Yes Department of Education.
+Departments,What departments offer teaching practice?,Education department has teaching practice program.
+Entry_Test,Is entry test required?,Some programs require entry tests.
+Entry_Test,When is entry test conducted?,Entry test dates are announced officially.
+Entry_Test,What is test syllabus?,Syllabus is shared before the test.
+Entry_Test,What programs require entry test?,"Engineering, Medical, and some competitive programs."
+Entry_Test,What is the format of entry test?,Multiple choice questions with negative marking.
+Entry_Test,How can I prepare for entry test?,Sample papers and syllabus available on website.
+Entry_Test,What is the passing score for entry test?,Minimum 50% required for consideration.
+Entry_Test,Is there entry test for graduate programs?,Some MS/PhD programs require entry tests.
+Entry_Test,Can entry test be waived?,Exceptional cases may be considered by committee.
+Entry_Test,What is the test duration?,Usually 2-3 hours depending on program.
+Entry_Test,Are calculators allowed in entry test?,No calculators allowed for most tests.
+Entry_Test,What subjects are included in engineering test?,"Physics, Chemistry, Mathematics, and English."
+Entry_Test,Is there mock test available?,Yes online mock tests are available.
+Entry_Test,What is the test center location?,Main campus is primary test center.
+Entry_Test,How much is entry test fee?,Entry test fee is PKR 2000.
+Entry_Test,Can I change my test date?,Test date changes allowed in exceptional circumstances.
+Entry_Test,What documents needed for test?,"Admit card and original CNIC/B-form."
+Entry_Test,Is there separate test for scholarships?,No same test used for scholarship consideration.
+Entry_Test,What is the weightage of entry test in merit?,Entry test carries 40% weight in final merit.
+Entry_Test,Are there different tests for different programs?,Yes program-specific tests are conducted.
+Entry_Test,What is the test pattern for MBA?,MBA test includes quantitative and analytical sections.
+Entry_Test,Is there interview after entry test?,Yes shortlisted candidates called for interview.
+Entry_Test,What is the passing criteria for medical test?,Medical test has higher cutoff marks.
+Entry_Test,Can I get test result rechecked?,Rechecking allowed with additional fee.
+Entry_Test,What is the syllabus for MS test?,Subject-specific advanced topics.
+Entry_Test,Are past papers available?,Past papers available at university library.
+Entry_Test,What is the test schedule for 2024?,Schedule will be announced on website.
+Entry_Test,Is there negative marking?,Yes 0.25 marks deducted for wrong answer.
+Entry_Test,What is the computer science test syllabus?,"Programming, Data Structures, and Mathematics."
+Entry_Test,Can disabled students get extra time?,Yes special arrangements for disabled students.
+Entry_Test,What is the law entry test like?,Legal aptitude and English comprehension.
+Entry_Test,Are there test preparation classes?,University offers optional preparation classes.
+Entry_Test,What is the architecture aptitude test?,Drawing test and design aptitude.
+Entry_Test,Is there oral test component?,Some programs have viva voce after written test.
+Entry_Test,What is the test language?,All tests are in English.
+Entry_Test,Can international students take test online?,Yes online proctored tests available.
+Entry_Test,What is the minimum age for test?,Minimum 16 years for undergraduate tests.
+Entry_Test,Are test scores valid for next year?,No scores valid only for current admission.
+Entry_Test,What is the procedure for test absence?,Absent candidates can apply for next test date.
+Entry_Test,Is there test for transfer students?,Yes transfer students may need to take test.
+Entry_Test,What is the pattern for PhD entry test?,Research methodology and subject knowledge.
+Entry_Test,Are test centers available in other cities?,Yes selected cities have test centers.
+Entry_Test,What is the scoring system?,Each correct answer carries 1 mark.
+Entry_Test,Is there essay writing in test?,Some tests include essay writing section.
+Entry_Test,What is the test for evening programs?,Same as regular program tests.
+Contact,How can I contact admissions office?,You can email admissions@university.edu
+Contact,What is university contact number?,Contact numbers are listed on website.
+Contact,Who to contact for queries?,Please contact the relevant department.
+Contact,What is the email for scholarship queries?,scholarships@university.edu
+Contact,How can I contact vice chancellor office?,vc.office@university.edu or extension 100.
+Contact,What is the registrar contact?,registrar@university.edu
+Contact,Is there helpline for new students?,Yes helpline: 042-111-123-456
+Contact,What is the address of university?,"University Chowk, Bahawalpur, Pakistan"
+Contact,How can I contact exam department?,controller@iub.edu.pk
+Contact,What is the hostel warden contact?,warden@iub.edu.pk
+Contact,How to contact library?,library@iub.edu.pk
+Contact,What is the IT support contact?,itsupport@iub.edu.pk
+Contact,Is there WhatsApp contact for queries?,Yes +92-309-0821168 for general queries.
+Contact,How can I contact alumni office?,alumni@iub.edu.pk
+Contact,What is the international office contact?,international@iub.edu.pk
+Contact,How to contact finance department?,finance@iub.edu.pk
+Contact,What is the career counseling contact?,career@iub.edu.pk
+Contact,Is there complaint cell?,Yes complaints@iub.edu.pk
+Contact,How can I contact sports department?,sports@iub.edu.pk
+Contact,What is the transport office contact?,transport@iub.edu.pk
+Contact,How to contact medical center?,medical@iub.edu.pk
+Contact,What is the research office contact?,research@iub.edu.pk
+Contact,Is there contact for disabled students?,disability.services@iub.edu.pk
+Contact,How can I contact quality assurance?,qec@iub.edu.pk
+Contact,What is the contact for transcript requests?,transcripts@iub.edu.pk
+Contact,How to contact conference organizers?,conferences@iub.edu.pk
+Contact,What is the placement cell contact?,placement@iub.edu.pk
+Contact,Is there contact for hostel complaints?,hostel.complaints@iub.edu.pk
+Contact,How can I contact student affairs?,student.affairs@iub.edu.pk
+Contact,What is the contact for fee payment issues?,fees@iub.edu.pk
+Contact,How to contact for website issues?,webmaster@iub.edu.pk
+Contact,What is the contact for newsletter?,newsletter@iub.edu.pk
+Contact,Is there emergency contact?,Emergency: 042-123-4567 (Security)
+Contact,How can I contact for event permissions?,events@iub.edu.pk
+Contact,What is the contact for media queries?,media@iub.edu.pk
+Contact,How to contact for building maintenance?,maintenance@iub.edu.pk
+Contact,What is the contact for cafeteria?,cafeteria@iub.edu.pk
+Contact,Is there contact for lost and found?,lost.found@iub.edu.pk
+Contact,How can I contact for parking issues?,parking@iub.edu.pk
+Contact,What is the contact for WiFi problems?,wifi.support@iub.edu.pk
+Contact,How to contact for auditorium booking?,auditorium@iub.edu.pk
+Contact,What is the contact for newsletter?,news@iub.edu.pk
+Contact,Is there contact for research grants?,grants@iub.edu.pk
+Contact,How can I contact for collaboration?,collaboration@iub.edu.pk
+Contact,What is the contact for summer programs?,summer@university.edu
+Migration,How can I apply for migration?,Migration process is defined by admin office.
+Migration,Is migration allowed?,Migration is allowed under conditions.
+Migration,What documents are needed for migration?,Academic documents are required.
+Migration,What is the migration policy?,Migration allowed after completion of first year.
+Migration,Can I migrate from other university?,Yes migration from recognized universities allowed.
+Migration,What is the process for migration?,Submit migration application with required documents.
+Migration,Is there migration fee?,Yes migration processing fee of PKR 5000.
+Migration,What are the eligibility criteria for migration?,Minimum 2.5 CGPA in previous institution.
+Migration,Can I migrate to different program?,Program change during migration requires approval.
+Migration,When can I apply for migration?,Migration applications accepted during admission period.
+Migration,What documents are required?,"NOC, transcripts, character certificate from previous institution."
+Migration,Is migration possible in mid-semester?,No migration only at semester start.
+Migration,What is the credit transfer policy?,Maximum 50% credits can be transferred.
+Migration,Can international students apply for migration?,Yes with equivalence certificate.
+Migration,What is the duration for migration process?,Process takes 4-6 weeks after application.
+Migration,Is there interview for migration?,Yes migration committee interview required.
+Migration,What if my previous institution is not recognized?,Migration not allowed from unrecognized institutions.
+Migration,Can I migrate from distance learning to regular?,Yes with additional requirements.
+Migration,What is the minimum attendance requirement for migration?,75% attendance in previous institution.
+Migration,Is migration allowed for failed students?,No students with F grade not eligible.
+Migration,What programs allow migration?,Most programs allow migration except professional degrees.
+Migration,Can I migrate with scholarship?,Scholarship not transferable; new application required.
+Migration,What is the last date for migration application?,Same as regular admission deadline.
+Migration,Is there quota for migration students?,Limited seats reserved for migration students.
+Migration,What is the age limit for migration?,Same as regular admission age criteria.
+Migration,Can I migrate from foreign university?,Yes with equivalence from HEC.
+Migration,What is the migration committee approval process?,Committee meets monthly to review applications.
+Migration,Is migration allowed for diploma holders?,Yes with relevant diploma and marks.
+Migration,What are the hostel arrangements for migrants?,Hostel subject to availability.
+Migration,Can I migrate with back subjects?,No all subjects must be cleared.
+Migration,What is the fee structure for migration students?,Same as regular students.
+Migration,Is migration possible between campuses?,Yes inter-campus migration allowed.
+Migration,What is the merit requirement for migration?,Migration merit based on previous academic record.
+Migration,Can I migrate after gap year?,Yes with explanation for gap period.
+Migration,What is the character certificate requirement?,Clean disciplinary record required.
+Migration,Is migration allowed for transfer within university?,Yes inter-department migration possible.
+Migration,What is the admission test requirement for migrants?,May be required depending on program.
+Migration,Can I migrate with provisional certificate?,Yes but final certificate must be submitted later.
+Migration,What is the medical fitness requirement for migration?,Medical certificate required.
+Migration,Is migration allowed for evening to morning shift?,Yes shift change possible during migration.
+Migration,What is the English proficiency requirement?,Minimum IELTS 6.0 or equivalent for migrants.
+Migration,Can I migrate from affiliated college?,Yes from recognized affiliated colleges.
+Migration,What is the semester placement for migrants?,Placement based on transferred credits.
+Migration,Is there any bond for migration students?,No bond requirement for migration.
+Library,What are library timings?,"Library is open from 8 AM to 10 PM on weekdays, 9 AM to 6 PM on weekends."
+Library,How can I become a library member?,All enrolled students are automatically library members.
+Library,Can I borrow books from library?,Yes students can borrow up to 3 books for 2 weeks.
+Library,Is there digital library access?,Yes online database access available through university portal.
+Library,What are the library fines for late return?,PKR 10 per day per book for overdue items.
+Library,Are there study rooms in library?,Yes group study rooms available on reservation.
+Library,Can alumni use the library?,Yes alumni can use library with alumni card.
+Library,What databases are available?,"IEEE, Springer, JSTOR, and other academic databases."
+Library,Is printing available in library?,Yes printing and photocopying at nominal charges.
+Library,How many books does library have?,Library has over 100000 books and journals.
+Library,Can I access library from home?,Yes remote access through VPN for enrolled students.
+Library,What is the procedure for book reservation?,Books can be reserved through online catalog.
+Library,Are there rare books collection?,Yes special collection section with rare books.
+Library,Is there inter-library loan service?,Yes books can be borrowed from other universities.
+Library,What are the library rules?,"Silence must be maintained, no food or drinks allowed."
+Library,Can visitors use the library?,Visitors allowed with prior permission.
+Library,Is there thesis section in library?,Yes all university theses available in reference section.
+Library,What is the library membership fee?,Free for students nominal fee for outsiders.
+Library,Are there library workshops?,Yes regular workshops on research skills.
+Library,Can I suggest book purchases?,Yes suggestion box available at librarian office.
+Library,What is the lost book penalty?,Cost of book plus processing fee for lost items.
+Library,Is there book return drop box?,Yes drop box available after library hours.
+Library,Are newspapers available in library?,Yes national and international newspapers.
+Library,What is the library holiday schedule?,Closed on public holidays; special schedule during exams.
+Library,Can I renew books online?,Yes online renewal up to 2 times if no reservation.
+Library,Are e-books available?,Yes extensive e-book collection available.
+Library,What is the library catalog system?,Online catalog accessible through university website.
+Library,Is there plagiarism checking software?,Yes Turnitin available for faculty and students.
+Library,Can I donate books to library?,Yes book donations accepted with approval.
+Library,What is the reference desk timing?,Reference librarian available during library hours.
+Library,Are there audio-visual materials?,Yes audio-visual section with educational materials.
+Library,Is there library app?,Yes mobile app available for library services.
+Library,What are the photocopy charges?,PKR 2 per page for black and white copies.
+Library,Can I access past exam papers?,Yes past papers available in reference section.
+Library,Is there book scanning service?,Yes scanning available at nominal charges.
+Library,What is the maximum borrowing period?,14 days for students 30 days for faculty.
+Library,Are there library assistants to help?,Yes library staff available for assistance.
+Library,Can I check my borrowing history?,Yes through online library account.
+Library,What is the library committee?,Student-faculty committee for library improvements.
+Library,Is there summer borrowing policy?,Extended borrowing during summer vacation.
+Examination,When are final exams conducted?,Final exams are at the end of each semester.
+Examination,What is the exam schedule?,Detailed schedule published one month before exams.
+Examination,How can I get exam admit card?,Admit cards available online through student portal.
+Examination,What is the exam grading system?,"A (4.0), B (3.0), C (2.0), D (1.0), F (0.0)"
+Examination,Can I apply for exam rechecking?,Yes within 15 days of result declaration.
+Examination,What is the rechecking fee?,PKR 500 per paper for rechecking.
+Examination,Is there supplementary exam?,Yes supplementary exams conducted after regular exams.
+Examination,What is the passing criteria?,Minimum 50% marks or grade C required.
+Examination,Are calculators allowed in exams?,Only in specified papers; generally not allowed.
+Examination,What is the exam attendance requirement?,75% attendance required to appear in exams.
+Examination,Can I change my exam center?,Exam center changes allowed in special circumstances.
+Examination,What is the procedure for exam absence?,Medical certificate required for absent students.
+Examination,Are there model papers available?,Yes model papers available on department websites.
+Examination,What is the exam conduct rules?,"No cheating, no mobile phones, valid ID required."
+Examination,How are exam papers evaluated?,Double-blind evaluation system followed.
+Examination,When will semester results be announced?,Results announced within 6 weeks of exams.
+Examination,Can I see my evaluated answer sheets?,Yes after result declaration for limited period.
+Examination,What is the process for grade improvement?,Repeat course in next semester for grade improvement.
+Examination,Is there semester freeze option?,Yes with valid reason and committee approval.
+Examination,What are the exam timings?,Morning and evening shifts; 9 AM and 2 PM typically.
+Examination,Can disabled students get extra time?,Yes special arrangements for disabled students.
+Examination,What is the weightage of assignments?,Assignments carry 20-30% weight in final grade.
+Examination,Are there practical exams?,Yes for science and engineering programs.
+Examination,What is the viva voce examination?,Oral examination for graduate programs.
+Examination,Can I take exam in Urdu medium?,No all exams are in English.
+Examination,What is the exam committee?,Faculty committee responsible for exam conduct.
+Examination,Is there online exam system?,Some courses have online exams.
+Examination,What is the process for unfair means case?,Committee investigates and decides penalty.
+Examination,Are exam dates negotiable?,No fixed dates; changes only in emergencies.
+Examination,What is the external examiner system?,External examiners for fair evaluation.
+Examination,Can I appear as private candidate?,No only regular students can appear.
+Examination,What is the exam eligibility criteria?,Fee clearance and attendance requirement.
+Examination,Are there semester projects evaluation?,Yes projects evaluated separately.
+Examination,What is the marking scheme?,Marking scheme provided with question paper.
+Examination,Is there negative marking in exams?,No negative marking in semester exams.
+Examination,What is the transcript grading?,CGPA based on all semester grades.
+Examination,Can I get duplicate marksheet?,Yes with application and fee.
+Examination,What is the convocation requirement?,Clear all credits with minimum CGPA 2.0.
+Examination,Are there gold medals in exams?,Yes for top position holders in each program.
+Transport,Is transport facility available?,Yes university buses available on designated routes.
+Transport,What are the transport routes?,Routes cover major city areas; details on website.
+Transport,How much is transport fee?,Transport fee is PKR 5000 per semester.
+Transport,Is transport compulsory?,No transport service is optional.
+Transport,What are the bus timings?,"Buses arrive at 8 AM and leave campus at 5 PM."
+Transport,Are there separate buses for female students?,Yes separate buses with female drivers/conductors.
+Transport,Can I get monthly transport pass?,Yes monthly passes available at transport office.
+Transport,What is the procedure for transport complaints?,Complaints can be registered at transport office.
+Transport,Is there transport for evening students?,Yes special schedule for evening program students.
+Transport,What is the pickup/drop policy?,Fixed pickup points; no door-to-door service.
+Transport,Are there transport for disabled students?,Yes wheelchair accessible transport available.
+Transport,Can staff use student transport?,Yes subject to seat availability.
+Transport,What is the transport refund policy?,No refund after semester starts.
+Transport,Is there online transport registration?,Yes through student portal.
+Transport,What is the vehicle fleet?,Air-conditioned buses and vans.
+Transport,Are there transport for field trips?,Yes separate arrangements for academic trips.
+Transport,What is the safety measures in transport?,"GPS tracking, speed limits, trained drivers."
+Transport,Can I suggest new routes?,Yes suggestions considered at start of each semester.
+Transport,What is the transport committee?,Student representative committee for transport issues.
+Transport,Is there car parking for students?,Yes free parking for students with cars.
+Transport,What are the parking rules?,Valid parking sticker required; assigned areas.
+Transport,Can motorcycles be parked on campus?,Yes designated motorcycle parking areas.
+Transport,What is the bicycle facility?,Bicycle stands available across campus.
+Transport,Is there shuttle service within campus?,Yes electric shuttle for large campus areas.
+Transport,What is the transport for hostel students?,Special buses for hostel students on weekends.
+Transport,Are there transport charges for guests?,Yes nominal charges for guest transport.
+Transport,What is the lost and found in buses?,Contact transport office for lost items.
+Transport,Is there transport during exams?,Yes special schedule during examination period.
+Transport,What is the transport for international students?,Airport pickup service available for new international students.
+Transport,Can parents use university transport?,Yes on open day and special events.
+Transport,What is the fuel charges adjustment?,Fuel charges adjusted annually if needed.
+Transport,Is there transport for sports events?,Yes transport for away matches and events.
+Transport,What is the transport booking system?,Advance booking for special trips.
+Transport,Are there electric vehicles in fleet?,Yes gradually adding electric buses.
+Transport,What is the driver qualification?,All drivers have PSV license and training.
+Transport,Is there transport for summer courses?,Yes limited transport during summer.
+Transport,What is the emergency transport?,Emergency transport available for medical emergencies.
+Transport,Can students drive university vehicles?,No only authorized drivers allowed.
+Transport,What is the insurance coverage?,All vehicles fully insured.
+Transport,Is there transport for cultural events?,Yes for inter-university events.
+Transport,What is the maintenance schedule?,Regular maintenance as per manufacturer guidelines.
+Transport,Are there seat belts in buses?,Yes seat belts mandatory in all buses.
+Transport,What is the child policy on buses?,Children below 5 free; above 5 need ticket.
+Transport,Is there transport for PhD scholars?,Yes all enrolled students eligible.
+Transport,What is the cancellation policy?,Cancellation allowed before semester starts with refund.
+Placement,Does university have placement cell?,Yes dedicated placement and career services cell.
+Placement,Which companies visit campus for recruitment?,"Tech companies, banks, FMCG, and multinationals."
+Placement,What is the average placement package?,Average package PKR 80000 per month for graduates.
+Placement,How can I register for placement?,Automatic registration for final year students.
+Placement,Are there internship opportunities?,Yes summer internship program with companies.
+Placement,What is the placement process?,"Pre-placement talks, tests, interviews, and selection."
+Placement,Is there placement for all programs?,Yes but more opportunities for professional programs.
+Placement,What are the top recruiters?,"IBM, Microsoft, Nestle, Unilever, and local companies."
+Placement,Can alumni help with placements?,Yes alumni network actively participates.
+Placement,What is the placement percentage?,Approximately 80% of eligible students get placed.
+Placement,Are there overseas placement opportunities?,Limited overseas opportunities through partner companies.
+Placement,What skills do recruiters look for?,"Technical skills, communication, and problem-solving."
+Placement,Is there resume building workshop?,Yes regular workshops on resume writing.
+Placement,What is the interview preparation help?,Mock interviews and GD sessions conducted.
+Placement,Are there placement for MBA?,Yes strong placement record for MBA graduates.
+Placement,What is the highest package offered?,Highest package PKR 200000 per month.
+Placement,Can previous students access placement?,Alumni can use career services for 2 years.
+Placement,What is the internship stipend range?,PKR 15000-30000 per month for internships.
+Placement,Are there startup incubation support?,Yes startup incubation center for entrepreneurs.
+Placement,What is the industry-academia linkage?,Strong linkages through MOUs with industries.
+Placement,Is there career counseling available?,Yes one-on-one career counseling sessions.
+Placement,What are the placement eligibility criteria?,Minimum 2.5 CGPA and no active backlogs.
+Placement,Are there off-campus placement drives?,Yes information shared about off-campus opportunities.
+Placement,What is the dress code for placements?,Formal business attire required.
+Placement,Can international students get placement?,Yes companies hiring international students.
+Placement,What is the placement calendar?,Placement season from September to March.
+Placement,Are there pre-placement offers?,Yes based on internship performance.
+Placement,What is the role of placement committee?,Student committee assists placement cell.
+Placement,Is there placement for MS/PhD?,Yes research and academic positions.
+Placement,What are the emerging sector placements?,Growing opportunities in IT and digital marketing.
+Placement,Can students start their own business?,Yes entrepreneurship cell provides support.
+Placement,What is the alumni mentorship program?,Senior alumni mentor students for careers.
+Placement,Are there part-time job opportunities?,Yes part-time jobs list maintained.
+Placement,What is the foreign company recruitment?,Multinational companies recruit regularly.
+Placement,Is there placement for arts students?,Yes media education and corporate sectors.
+Placement,What are the government job preparations?,Special sessions for competitive exams.
+Placement,Can students get recommendation letters?,Yes from faculty for job applications.
+Placement,What is the placement data privacy?,Student data shared only with consent.
+Placement,Are there soft skills training?,Yes comprehensive soft skills development program.
+Placement,What is the company registration process?,Companies register through placement portal.
+Placement,Is there placement for differently-abled?,Yes special efforts for inclusive placement.
+Placement,What are the summer internship deadlines?,Applications close in March for summer internships.
+International,Are there international students at university?,Yes students from various countries study here.
+International,What are the admission requirements for international students?,"Valid passport, academic certificates, and English proficiency."
+International,Is there separate application for international students?,Yes international admission office handles applications.
+International,What is the fee structure for international students?,Higher fees for international students in US dollars.
+International,Are there scholarships for international students?,Limited scholarships available for top international students.
+International,What is the visa process?,University provides admission letter for visa application.
+International,Is there airport pickup service?,Yes free airport pickup for new international students.
+International,What accommodation options for international students?,Priority given for hostel accommodation.
+International,Are there orientation programs for international students?,Yes comprehensive orientation upon arrival.
+International,What is the English language requirement?,Minimum IELTS 6.0 or TOEFL 80 required.
+International,Can international students work on campus?,Yes limited on-campus work permitted.
+International,What is the health insurance requirement?,Health insurance mandatory for all international students.
+International,Are there international student advisors?,Yes dedicated advisors for international students.
+International,What cultural activities are there for international students?,Cultural events and trips organized regularly.
+International,Is there halal food available on campus?,Yes halal food available in all cafeterias.
+International,What is the safety situation for international students?,Campus is safe with 24/7 security.
+International,Are there prayer facilities on campus?,Yes separate prayer rooms for males and females.
+International,What is the climate like?,Moderate climate with four distinct seasons.
+International,Can international students bring family?,Family can accompany but separate accommodation needed.
+International,What is the international student association?,Active student association organizing events.
+International,Are there exchange programs for international students?,Yes various exchange opportunities available.
+International,What banking facilities are available?,Bank branches on campus with foreign currency services.
+International,Is there international student handbook?,Yes comprehensive guide provided at orientation.
+International,What is the process for equivalency certificates?,HEC equivalency required for foreign qualifications.
+International,Can international students get local SIM cards?,Yes help provided for mobile connections.
+International,What is the international office contact?,international@university.edu
+International,Are there language support services?,Yes English language support available.
+International,What is the international student enrollment process?,"Apply online, submit documents, get admission letter, apply visa."
+International,Is there international student mentorship?,Yes senior students mentor new international students.
+International,What are the popular programs for international students?,"Engineering, Business, and Computer Science."
+International,Can international students transfer credits?,Yes credit transfer possible from recognized institutions.
+International,What is the international student fee payment?,Payment in US dollars through bank transfer.
+International,Are there international alumni networks?,Yes active international alumni chapters.
+International,What is the graduation rate for international students?,High graduation rate with proper support.
+International,Can international students participate in sports?,Yes all sports facilities available.
+International,What is the medical facility for international students?,Campus medical center with international standards.
+International,Are there international research collaborations?,Yes many faculty have international collaborations.
+International,What is the international student success rate?,Excellent success rate with proper guidance.
+International,Can international students get part-time jobs off-campus?,Limited off-campus work allowed with permission.
+International,What is the international student community size?,Approximately 500 international students from 30 countries.
+International,Are there international student scholarships from home country?,Yes information provided about home country scholarships.
+International,What is the international student graduation ceremony?,Special recognition at convocation.
+International,Can international students stay after graduation?,Yes can apply for work visa through proper channels.
+International,What is the international student feedback system?,Regular feedback collected for continuous improvement.
+International,Are there international student emergency funds?,Yes emergency financial assistance available.
+International,What is the international student code of conduct?,Same as local students with additional visa compliance.
+International,Can international students travel during holidays?,Yes with proper documentation and university information.
+International,What is the international student re-entry process?,Valid visa and documents required for re-entry.
+International,Are there international student success stories?,Many success stories of international graduates.
